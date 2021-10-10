@@ -71,6 +71,8 @@ var menudata={children:[
 {text:"Typedefs",url:"namespacemembers_type.html"},
 {text:"Enumerations",url:"namespacemembers_enum.html"},
 {text:"Enumerator",url:"namespacemembers_eval.html",children:[
+{text:"c",url:"namespacemembers_eval.html#index_c"},
+{text:"h",url:"namespacemembers_eval.html#index_h"},
 {text:"i",url:"namespacemembers_eval.html#index_i"},
 {text:"p",url:"namespacemembers_eval.html#index_p"},
 {text:"s",url:"namespacemembers_eval.html#index_s"}]}]}]},
@@ -158,7 +160,6 @@ var menudata={children:[
 {text:"File Members",url:"globals.html",children:[
 {text:"All",url:"globals.html",children:[
 {text:"b",url:"globals.html#index_b"},
-{text:"c",url:"globals.html#index_c"},
 {text:"d",url:"globals.html#index_d"},
 {text:"e",url:"globals.html#index_e"},
 {text:"g",url:"globals.html#index_g"},
@@ -173,16 +174,7 @@ var menudata={children:[
 {text:"s",url:"globals.html#index_s"},
 {text:"t",url:"globals.html#index_t"},
 {text:"u",url:"globals.html#index_u"}]},
-{text:"Functions",url:"globals_func.html",children:[
-{text:"b",url:"globals_func.html#index_b"},
-{text:"c",url:"globals_func.html#index_c"},
-{text:"d",url:"globals_func.html#index_d"},
-{text:"g",url:"globals_func.html#index_g"},
-{text:"i",url:"globals_func.html#index_i"},
-{text:"m",url:"globals_func.html#index_m"},
-{text:"p",url:"globals_func.html#index_p"},
-{text:"s",url:"globals_func.html#index_s"},
-{text:"t",url:"globals_func.html#index_t"}]},
+{text:"Functions",url:"globals_func.html"},
 {text:"Variables",url:"globals_vars.html"},
 {text:"Typedefs",url:"globals_type.html"},
 {text:"Enumerations",url:"globals_enum.html"},
