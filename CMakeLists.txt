@@ -179,6 +179,8 @@ set (utils_hdrs
 	utils/strings_util.h
 	utils/byte_buffer.h
 	utils/code_patterns.h
+	utils/custom_mutex.h
+	utils/process_symbols.h
 )
 
 set (params_info_hdrs
